@@ -1,0 +1,8 @@
+ul > li {
+  display: inline-block;
+  margin-left: 10px;
+}
+.language-block {
+  width: 33%;
+  display: inline-block;
+}
